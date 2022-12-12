@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+SW Architect / Full Stack developer focused on modern internet technologies (ASP.NET MVC, ASP.NET CORE, HTML 5, LESS, VUEJS, NODE.JS, Camunda, ElasticSearch) and popular programic languages as C# and JavaScript.
+
+- 🔭 I’m currently working on:
+
+
+- 🌱 I’m currently learning:
+
 <!--
 **mhascak/mhascak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
